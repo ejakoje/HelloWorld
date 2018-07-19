@@ -7,7 +7,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.Write("Press any key to continue.....and exit");
+            Console.Write("Press any key to continue.....and exit...");
             Console.ReadKey(true);        }
     }
 }
